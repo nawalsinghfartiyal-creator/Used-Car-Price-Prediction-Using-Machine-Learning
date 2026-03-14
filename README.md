@@ -1,32 +1,32 @@
 # Used-Car-Price-Prediction
 
-📌 Project Overview
+## 📌 Project Overview
 
 The price of a used car depends on several factors such as the vehicle's age, mileage, fuel type, transmission type, and number of previous owners. Accurately estimating the resale value of a car can be challenging without analyzing historical data.
 This project aims to develop a machine learning model that predicts the selling price of used cars using various vehicle attributes. By applying data preprocessing, exploratory data analysis, and regression algorithms, the project demonstrates how machine learning can be used to solve real-world pricing problems.Multiple regression models were trained and evaluated, and Random Forest Regression achieved the best performance, providing reliable and accurate price predictions.
 
 
-🎯 Objectives
+## 🎯 Objectives
 
-  The main objectives of this project are:
+The main objectives of this project are:
 
-            1. To analyze factors affecting used car prices
-            2. To perform data cleaning and preprocessing
-            3. To conduct Exploratory Data Analysis (EDA) to understand patterns in the dataset
-            4. To train and evaluate multiple machine learning regression models
-            5. To select the best performing model for predicting car prices
+  - To analyze factors affecting used car prices
+  - To perform data cleaning and preprocessing
+  - To conduct Exploratory Data Analysis (EDA) to understand patterns in the dataset
+  - To train and evaluate multiple machine learning regression models
+  - To select the best performing model for predicting car prices
 
 
-📂 Dataset
-
+##  📂 Dataset
   The dataset contains several features related to used cars:
 
-              -> Year – Manufacturing year of the car
-              -> Present_Price – Current showroom price of the car
-              -> Selling_Price – Selling price of the used car
-              -> Kms_Driven – Total kilometers driven
-              -> Fuel_Type – Petrol, Diesel, or other fuel types
-              -> Transmission – Manual or Automatic transmission
+- `Year` – Manufacturing year of the car  
+- `Present_Price` – Current showroom price  
+- `Selling_Price` – Selling price of the used car  
+- `Kms_Driven` – Total kilometers driven  
+- `Fuel_Type` – Petrol, Diesel, or other fuel types  
+- `Transmission` – Manual or Automatic transmission
+       
 
 
 📊 Exploratory Data Analysis (EDA)
