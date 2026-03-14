@@ -181,3 +181,11 @@ The project was implemented using the following tools and libraries:
   - **Scikit-learn**
 
   - **Jupyter Notebook**
+
+
+
+## 📌 Conclusion
+
+This project demonstrates how **machine learning techniques can be applied to predict used car prices based on vehicle characteristics**.
+Through data cleaning, exploratory data analysis, feature engineering, and model evaluation, important patterns influencing car prices were identified. Among the tested models, Random Forest Regression performed the best, delivering the most accurate predictions.
+The project highlights the practical use of data science in solving real-world problems such as vehicle price estimation. With further improvements such as model deployment and additional data sources, the system could be developed into a fully functional car price prediction application.
