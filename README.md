@@ -64,37 +64,43 @@ Exploratory Data Analysis was performed to understand the structure of the datas
       vehicle costs
 
 
-⚙️ Methodology
-
+## ⚙️ Methodology
+  
   The project follows a structured machine learning workflow to build an effective price prediction model.
 
-          1. Data Collection
-          The dataset containing used car information was obtained from a publicly available dataset. It includes several features
+  -  **Data Collection**
+
+     The dataset containing used car information was obtained from a publicly available dataset. It includes several features
           related to vehicle specifications and prices
 
-          2. Data Cleaning
+  -  **Data Cleaning**
           The dataset was inspected to identify and handle potential issues such as:
           -> Missing values
           -> Duplicate records
           -> Incorrect data formats
           Cleaning the dataset ensured that the data was suitable for analysis and model training
 
-          3. Data Preprocessing
-          Since machine learning models require numerical input, categorical variables such as Fuel Type and Transmission were converted
+  - **Data Preprocessing**
+
+    Since machine learning models require numerical input, categorical variables such as Fuel Type and Transmission were converted
           into numerical values using encoding techniques
 
-          4. Exploratory Data Analysis
-          EDA was performed to identify patterns, relationships, and trends within the dataset. Visualization techniques helped reveal
+  - **Exploratory Data Analysis**
+
+    EDA was performed to identify patterns, relationships, and trends within the dataset. Visualization techniques helped reveal
           insights about how different factors influence car prices.
 
-          5. Model Training
-          Multiple regression algorithms were trained to predict used car prices
+  - **Model Training**
 
-          7. Model Evaluation
-          Each model was evaluated using standard regression metrics to determine its prediction accuracy
+    Multiple regression algorithms were trained to predict used car prices
+
+  - **Model Evaluation**
+
+    Each model was evaluated using standard regression metrics to determine its prediction accuracy
           
-          8. Model Selection
-          The model with the best evaluation performance was selected as the final model
+  - **Model Selection**
+
+    The model with the best evaluation performance was selected as the final model
 
 
 
