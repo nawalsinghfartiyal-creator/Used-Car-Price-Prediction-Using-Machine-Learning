@@ -38,19 +38,24 @@ Exploratory Data Analysis was performed to understand the structure of the datas
       likely due to their fuel efficiency and demand in the used car market 
 
       2. Distribution of Transmission Types
-      The dataset contains a higher proportion of manual transmission vehicles compared to automatic vehicles, indicating that manual           cars dominate the dataset
+      The dataset contains a higher proportion of manual transmission vehicles compared to automatic vehicles, indicating that manual
+      cars dominate the dataset
 
       3. Relationship Between Year and Selling Price
-      Cars manufactured in more recent years generally have higher selling prices, which reflects the natural depreciation of vehicles          over time
+      Cars manufactured in more recent years generally have higher selling prices, which reflects the natural depreciation of vehicles
+      over time
 
       4. Owner vs Kilometers Driven
-      Vehicles with more previous owners tend to have higher kilometers driven, which is expected because the car has been used by              multiple individuals
+      Vehicles with more previous owners tend to have higher kilometers driven, which is expected because the car has been useby
+      multiple individuals
 
       5. Kilometers Driven Trend by Fuel Type
-      The trend analysis of kilometers driven across different fuel types helps understand vehicle usage patterns and driving behavior          over time
+      The trend analysis of kilometers driven across different fuel types helps understand vehicle usage patterns and driving behavior
+      over time
 
       6. Present Price Trend Over Years
-      The showroom price of cars generally increases with newer manufacturing years, reflecting technological improvements and rising           vehicle costs
+      The showroom price of cars generally increases with newer manufacturing years, reflecting technological improvements and rising
+      vehicle costs
 
 
 
