@@ -77,10 +77,13 @@ Exploratory Data Analysis was performed to understand the structure of the datas
 
       The dataset was inspected to identify and handle potential issues such as:
 
-       -> Missing values
-       -> Duplicate records
-       -> Incorrect data formats
-          Cleaning the dataset ensured that the data was suitable for analysis and model training
+     -> Missing values
+
+     -> Duplicate records
+
+      -> Incorrect data formats
+
+     Cleaning the dataset ensured that the data was suitable for analysis and model training
 
   - **Data Preprocessing**
 
