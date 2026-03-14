@@ -108,11 +108,39 @@ Exploratory Data Analysis was performed to understand the structure of the datas
     The model with the best evaluation performance was selected as the final model
 
 
+    
+## 🧠 Machine Learning Models Used
+  
+  The following regression algorithms were implemented and compared:
+
+  **Linear Regression**
+ 
+  A basic regression model used as a baseline to understand the relationship between input features and the selling price.
+
+  **Random Forest Regression**
+ 
+  An ensemble learning algorithm that combines multiple decision trees to improve prediction accuracy and reduce overfitting
+
+Among these models, _Random Forest Regression_ produced the best results
 
 
 
+## 📈 Model Evaluation Metrics
 
+  To evaluate the performance of each model, the following regression metrics were used:
 
+  - **Mean Absolute Error (MAE)**:
+    Measures the average absolute difference between predicted and actual values
 
+  - **Mean Squared Error (MSE)**:
+    Measures the average squared difference between predictions and actual values
+
+  - **Root Mean Squared Error (RMSE)**:
+    Square root of MSE, providing error in the same unit as the target variable
+
+  - **R² Score**:
+    Indicates how well the model explains the variance in the data
+
+    
 
         
