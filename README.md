@@ -29,31 +29,31 @@ The main objectives of this project are:
        
 
 
-📊 Exploratory Data Analysis (EDA)
+## 📊 Exploratory Data Analysis (EDA)
 
 Exploratory Data Analysis was performed to understand the structure of the dataset and identify important relationships between different variables.
       
-      1.Average Selling Price by Fuel Type
+  - **Average Selling Price by Fuel Type**
       Analysis of selling prices by fuel type showed that diesel vehicles often have higher resale values compared to petrol vehicles, 
       likely due to their fuel efficiency and demand in the used car market 
 
-      2. Distribution of Transmission Types
+   - **Distribution of Transmission Types**
       The dataset contains a higher proportion of manual transmission vehicles compared to automatic vehicles, indicating that manual
       cars dominate the dataset
 
-      3. Relationship Between Year and Selling Price
+   - **Relationship Between Year and Selling Price**
       Cars manufactured in more recent years generally have higher selling prices, which reflects the natural depreciation of vehicles
       over time
 
-      4. Owner vs Kilometers Driven
+  - **Owner vs Kilometers Driven**
       Vehicles with more previous owners tend to have higher kilometers driven, which is expected because the car has been useby
       multiple individuals
 
-      5. Kilometers Driven Trend by Fuel Type
+  - **Kilometers Driven Trend by Fuel Type**
       The trend analysis of kilometers driven across different fuel types helps understand vehicle usage patterns and driving behavior
       over time
 
-      6. Present Price Trend Over Years
+  - **Present Price Trend Over Years**
       The showroom price of cars generally increases with newer manufacturing years, reflecting technological improvements and rising
       vehicle costs
 
