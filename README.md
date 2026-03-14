@@ -141,6 +141,26 @@ The following regression algorithms were implemented and compared:
   - **R² Score**:
     Indicates how well the model explains the variance in the data
 
+
+
+## 📊 Model Performance & Results
+
+#### Key Observations
+
+  - _Linear Regression_ provided a basic prediction baseline but struggled with complex relationships in the dataset.
+
+  - _Decision Tree Regression_ improved performance by capturing nonlinear patterns.
+
+  - _Random Forest Regression_ achieved the highest prediction accuracy and lowest error, making it the best performing model
+
+    
+#### Final Model
+
+The **_Random Forest Regression_** model was selected as the final model because it:
+
+  - Achieved the highest R² score
+  - Produced the lowest prediction errors
+  - Demonstrated strong generalization capability
     
 
         
