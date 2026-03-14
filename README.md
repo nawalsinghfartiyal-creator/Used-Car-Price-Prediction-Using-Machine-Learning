@@ -113,11 +113,11 @@ Exploratory Data Analysis was performed to understand the structure of the datas
   
   The following regression algorithms were implemented and compared:
 
-  **Linear Regression**
+ 1.  **Linear Regression**
  
   A basic regression model used as a baseline to understand the relationship between input features and the selling price.
 
-  **Random Forest Regression**
+ 2.  **Random Forest Regression**
  
   An ensemble learning algorithm that combines multiple decision trees to improve prediction accuracy and reduce overfitting
 
