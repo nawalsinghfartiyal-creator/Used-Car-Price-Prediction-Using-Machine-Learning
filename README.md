@@ -121,7 +121,7 @@ The following regression algorithms were implemented and compared:
  
     An ensemble learning algorithm that combines multiple decision trees to improve prediction accuracy and reduce overfitting
 
-    Among these models, _Random Forest Regression_ produced the best results
+**Among these models, _Random Forest Regression_ produced the best results**
 
 
 
