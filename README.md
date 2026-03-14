@@ -164,3 +164,20 @@ The **_Random Forest Regression_** model was selected as the final model because
     
 
         
+## 🛠️ Technologies Used
+
+The project was implemented using the following tools and libraries:
+
+  - **Python**
+
+  - **Pandas**
+
+  - **NumPy**
+
+  - **Matplotlib**
+
+  - **Seaborn**
+
+  - **Scikit-learn**
+
+  - **Jupyter Notebook**
