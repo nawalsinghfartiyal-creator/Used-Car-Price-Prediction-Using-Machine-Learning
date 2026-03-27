@@ -139,7 +139,7 @@ The following regression algorithms were implemented and compared:
     Square root of MSE, providing error in the same unit as the target variable
 
   - **R² Score**:
-    Indicates how well the model explains the variance in the data
+    Indicates how well the model explains the variance in the data .
 
 
 
