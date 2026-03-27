@@ -71,7 +71,7 @@ Exploratory Data Analysis was performed to understand the structure of the datas
   -  **Data Collection**
 
      The dataset containing used car information was obtained from a publicly available dataset. It includes several features
-          related to vehicle specifications and prices
+          related to vehicle specifications and prices.
 
   -  **Data Cleaning**
 
