@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 
 The price of a used car depends on several factors such as the vehicle's age, mileage, fuel type, transmission type, and number of previous owners. Accurately estimating the resale value of a car can be challenging without analyzing historical data.
-This project aims to develop a machine learning model that predicts the selling price of used cars using various vehicle attributes. By applying data preprocessing, exploratory data analysis, and regression algorithms, the project demonstrates how machine learning can be used to solve real-world pricing problems.Multiple regression models were trained and evaluated, and Random Forest Regression achieved the best performance, providing reliable and accurate price predictions.
+This project aims to develop a machine learning model that predicts the selling price of used cars using various vehicle attributes. By applying data preprocessing, exploratory data analysis, and regression algorithms, the project demonstrates how machine learning can be used to solve real-world pricing problems.Multiple regression models were trained and evaluated, and Random Forest Regression achieved the best performance, providing reliable and accurate price predictions
 
 
 ## 🎯 Objectives
